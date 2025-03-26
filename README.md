@@ -11,7 +11,7 @@ This project identifies early-stage Parkinson’s disease (PD) using voice bioma
 ## Key Features
 - **Feature Selection**: Identifies top 3 voice biomarkers (Jitter, Shimmer, HNR) for PD detection.
 - **Explainable AI**: SHAP plots reveal model decision logic.
-- **Minimalist Model**: Achieves >90% accuracy with only 3 features.
+- **Minimalist Model**: Achieves >80% accuracy with only 3 features.
 - **Clinical Relevance**: Prioritizes metrics used in real-world PD diagnosis.
 
 ## Prerequisites
